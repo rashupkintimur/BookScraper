@@ -1,0 +1,7 @@
+# ide, os folders
+.DB_Store
+.vscode/
+.idea/
+
+# db
+books.json
